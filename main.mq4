@@ -1,10 +1,9 @@
 //+------------------------------------------------------------------+
 //|                                 NNFX JohnDeluxe ALGO the 1st.mq4 |
 //|                                                 Ricardo Trindade |
-//|                                        https://www.idontknow.com |
+//|                                                                  |
 //+------------------------------------------------------------------+
 #property copyright "Ricardo Trindade"
-#property link      "https://www.idontknow.com"
 #property version   "1.00"
 #property strict
 #include "SupportingFunctions.mqh" 
